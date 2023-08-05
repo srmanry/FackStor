@@ -1,6 +1,5 @@
 # api_pjt
-
-A new Flutter project.
+Fack API project
 
 ## Getting Started
 
